@@ -1,2 +1,1 @@
-meow
-![Image Alt Text](https://imgur.com/8dSX4Cu)
+[img]https://i.imgur.com/CIMM6G3.png[/img]
