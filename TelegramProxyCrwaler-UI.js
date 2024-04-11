@@ -104,8 +104,8 @@ async function handleRequest(request) {
         ${dropdownOptions}
       </select>
       <input type="submit" value="دریافت پروکسی" class="btn btn-primary">
-      <p><a href="https://t.me/hiimili" target="_blank" rel="noopener noreferrer">پروکسی‌ها بصورت لحظه‌ای آپدیت می‌شوند</a></p>
-      <p><a href="https://api-tg.imili.ir" target="_blank" rel="noopener noreferrer">API</a></p>
+      <p>پروکسی‌ها بصورت لحظه‌ای آپدیت می‌شوند</p>
+      
     </form>
   </div> 
   <footer class="footer">
@@ -204,7 +204,7 @@ async function handleRequest(request) {
   </div>
   <footer class="footer">
   <div class="container">
-    <p>by mili</p>
+    <p>by milad</p>
   </div>
 </footer>
   </body>
