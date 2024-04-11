@@ -1,3 +1,6 @@
+![Image Alt Tex](demo.png)
+
+
 # Telegram Proxy Crawler
 
 This script allows you to crawl Telegram proxy channels and fetch the latest MTProto proxies.
@@ -42,6 +45,8 @@ This script allows you to crawl Telegram proxy channels and fetch the latest MTP
 ## Notes
 
 - This script relies on web scraping, which may break if the structure of Telegram channels changes. Please use it responsibly and ensure compliance with Telegram's terms of service.
+
+
 
 - Make sure to check and respect the terms of use and legality of proxies in your jurisdiction before using them.
 
